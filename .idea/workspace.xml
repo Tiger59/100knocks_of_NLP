@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3c3a11c-7c3f-4195-8145-d4a6af067cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q_00-09/Q00.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00~09.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/00~09.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q_00-09/Q01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,16 +16,25 @@
         <entry file="file://$PROJECT_DIR$/00~09.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="2" />
+              <selected id="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q_00-09/Q00.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q_00-09/Q00.py">
+        <entry file="file://$PROJECT_DIR$/Q_00-09/Q01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -48,6 +56,7 @@
       <list>
         <option value="$PROJECT_DIR$/00~09.ipynb" />
         <option value="$PROJECT_DIR$/Q_00-09/Q00.py" />
+        <option value="$PROJECT_DIR$/Q_00-09/Q01.py" />
       </list>
     </option>
   </component>
@@ -69,6 +78,11 @@
             <path>
               <item name="100knocks_of_NLP" type="b2602c69:ProjectViewProjectNode" />
               <item name="100knocks_of_NLP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100knocks_of_NLP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100knocks_of_NLP" type="462c0819:PsiDirectoryNode" />
+              <item name="Q_00-09" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -105,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549718779379</updated>
-      <workItem from="1549718780822" duration="120000" />
+      <workItem from="1549718780822" duration="210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120000" />
+    <option name="totallyTimeSpent" value="210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -144,6 +158,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Q_00-09/Q00.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/00~09.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -151,10 +172,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q_00-09/Q00.py">
+    <entry file="file://$PROJECT_DIR$/Q_00-09/Q01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
