@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3c3a11c-7c3f-4195-8145-d4a6af067cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q_00-09/Q005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00~09.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/00~09.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q_00-09/Q006.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,16 +16,25 @@
         <entry file="file://$PROJECT_DIR$/00~09.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="12" />
+              <selected id="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q_00-09/Q005.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q_00-09/Q005.py">
+        <entry file="file://$PROJECT_DIR$/Q_00-09/Q006.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="165">
+              <caret line="11" column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -99,6 +106,7 @@
         <option value="$PROJECT_DIR$/Q_00-09/Q03.py" />
         <option value="$PROJECT_DIR$/Q_00-09/Q04.py" />
         <option value="$PROJECT_DIR$/Q_00-09/Q005.py" />
+        <option value="$PROJECT_DIR$/Q_00-09/Q006.py" />
       </list>
     </option>
   </component>
@@ -162,12 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549718779379</updated>
       <workItem from="1549718780822" duration="968000" />
-      <workItem from="1549767661788" duration="791000" />
+      <workItem from="1549767661788" duration="895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1759000" />
+    <option name="totallyTimeSpent" value="1863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -236,6 +244,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Q_00-09/Q005.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/00~09.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -243,10 +258,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q_00-09/Q005.py">
+    <entry file="file://$PROJECT_DIR$/Q_00-09/Q006.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        <state relative-caret-position="165">
+          <caret line="11" column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
