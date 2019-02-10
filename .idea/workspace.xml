@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3c3a11c-7c3f-4195-8145-d4a6af067cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q_00-09/Q007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q_00-09/Q09.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/00~09.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="16" />
+              <selected id="18" />
             </state>
           </provider>
         </entry>
@@ -39,11 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Q_00-09/Q007.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Q_00-09/Q09.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="30" selection-end-line="16" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -117,6 +126,7 @@
         <option value="$PROJECT_DIR$/Q_00-09/Q005.py" />
         <option value="$PROJECT_DIR$/Q_00-09/Q006.py" />
         <option value="$PROJECT_DIR$/Q_00-09/Q007.py" />
+        <option value="$PROJECT_DIR$/Q_00-09/Q09.py" />
       </list>
     </option>
   </component>
@@ -180,12 +190,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549718779379</updated>
       <workItem from="1549718780822" duration="968000" />
-      <workItem from="1549767661788" duration="945000" />
+      <workItem from="1549767661788" duration="1004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1913000" />
+    <option name="totallyTimeSpent" value="1972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -268,6 +278,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Q_00-09/Q007.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/00~09.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -275,10 +292,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q_00-09/Q007.py">
+    <entry file="file://$PROJECT_DIR$/Q_00-09/Q09.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        <state relative-caret-position="240">
+          <caret line="16" column="30" selection-end-line="16" selection-end-column="30" />
         </state>
       </provider>
     </entry>
