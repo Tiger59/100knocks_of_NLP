@@ -5,4 +5,4 @@
 開始日:2019/Feb  
 言語:Python  
 問題:[言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)  
-jupyter notebook及びpythonファイルにて解答  
+形式:jupyter notebook及びpythonファイルにて解答  
